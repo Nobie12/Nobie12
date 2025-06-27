@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi there, I'm Ken Aule! 👋
 
-![Banner Image](https://imgur.com/Wtaa2jp)
+![Banner Image]([https://imgur.com/Wtaa2jp](https://imgur.com/a/lmBH6Gi))
 
 ## About Me 🚀
 
