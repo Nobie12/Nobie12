@@ -5,12 +5,12 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Full-Stack Software Engineer** with experience in **React, express and Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🌱 Currently learning: **Machine Learning**
+- 🔭 Working on: **A team project with AI implementation**
 - 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 📫 How to reach me: **Kenaule1@gmail.com**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
